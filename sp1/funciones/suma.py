@@ -1,5 +1,2 @@
-n1 = int(input("Ingrese el primer numero: "))
-n2 = int(input("Ingrese el segundo numero: "))
-sum = n1 + n2
-print("La suma es: ",sum)
-
+def suma(param1, param2):
+    return param1+param2
