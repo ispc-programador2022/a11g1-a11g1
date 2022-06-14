@@ -6,5 +6,3 @@ def genrnd():
         i = random.randint(0,50)
         lista.append(i)
     return(lista)
-    
-genrnd()
