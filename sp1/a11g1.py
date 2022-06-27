@@ -4,6 +4,11 @@
 from funciones.bienvenida import bienvenida
 from funciones.ing2i import ing2i
 from funciones.ing2s import ing2s
+from funciones.resta import resta
+from funciones.potencia import potencia
+from funciones.p1sum import p1sum
+
+
 
 bienvenida()
 
